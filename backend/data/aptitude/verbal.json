@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Reading Comprehension - Read the passage and answer the question:\n'The company introduced short daily check-ins so teams could share blockers early. As a result, work moved faster, fewer tasks were repeated, and team members spent more time on delivery than on status chasing.'\n\nWhat is the main point of the passage?",
+    "options": [
+      "Daily check-ins are mainly used to monitor attendance.",
+      "Short check-ins can improve team coordination and speed up work.",
+      "Status meetings should replace all project planning.",
+      "Delivery becomes slower when communication increases."
+    ],
+    "answer": "Short check-ins can improve team coordination and speed up work.",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "The passage says early blocker sharing reduced repeated work and helped teams deliver faster. The main idea is that short check-ins improve coordination and speed.",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "question": "Spot the Error - Identify the segment of the sentence that contains a grammatical error:\n'Each of the students have submitted the assignment on time.'",
+    "options": [
+      "Each of the students",
+      "have submitted",
+      "the assignment",
+      "on time"
+    ],
+    "answer": "have submitted",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "The subject 'Each' is singular, so it should take the singular verb 'has submitted'. The error is in 'have submitted'.",
+    "level": 1
+  },
+  {
+    "id": 3,
+    "question": "Sentence Correction - Choose the best replacement for the underlined phrase:\n'Neither the manager nor the employees was ready to extend the deadline.'",
+    "options": [
+      "was ready",
+      "is ready",
+      "were ready",
+      "has been ready"
+    ],
+    "answer": "were ready",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "When two subjects are joined by 'neither...nor', the verb agrees with the subject nearer to it. Here, 'employees' is plural, so the correct form is 'were ready'.",
+    "level": 1
+  },
+  {
+    "id": 4,
+    "question": "Synonyms - Choose the word that is most nearly similar in meaning to 'Concise'.",
+    "options": [
+      "Brief",
+      "Complicated",
+      "Hidden",
+      "Weak"
+    ],
+    "answer": "Brief",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "'Concise' means short and clear, so 'Brief' is the closest synonym.",
+    "level": 1
+  },
+  {
+    "id": 5,
+    "question": "Fill in the Blank - Choose the best option:\n'She completed the report ____ the deadline.'",
+    "options": [
+      "before",
+      "for",
+      "during",
+      "among"
+    ],
+    "answer": "before",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "The phrase that fits naturally and grammatically is 'before the deadline'.",
+    "level": 1
+  },
+  {
+    "id": 6,
+    "question": "Para Jumbles - Choose the correct order of the sentences:\nA. First, read the question carefully.\nB. Next, eliminate the clearly wrong options.\nC. Then, compare the remaining choices.\nD. Finally, mark the answer and move on.",
+    "options": [
+      "A-B-C-D",
+      "A-C-B-D",
+      "B-A-C-D",
+      "D-C-B-A"
+    ],
+    "answer": "A-B-C-D",
+    "difficulty": "Easy",
+    "company": "Cognizant",
+    "explanation": "The steps follow a logical test-taking order: read, eliminate, compare, and then finalize the answer.",
+    "level": 1
+  },
+  {
+    "id": 7,
+    "question": "Identify the antonym of the word 'Obstinate'.",
+    "options": [
+      "Stubborn",
+      "Flexible",
+      "Rigid",
+      "Dogmatic"
+    ],
+    "answer": "Flexible",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "'Obstinate' means stubborn or refusing to change, so the opposite is 'Flexible'.",
+    "level": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the word that is correctly spelled:",
+    "options": [
+      "Accomodate",
+      "Accommodate",
+      "Acomodate",
+      "Acommodate"
+    ],
+    "answer": "Accommodate",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "The correct spelling is 'Accommodate' with two c's and two m's.",
+    "level": 1
+  },
+  {
+    "id": 9,
+    "question": "Select the correct option to fill in the blank:\n'The committee ____ unable to agree on a final decision.'",
+    "options": [
+      "was",
+      "were",
+      "has",
+      "have"
+    ],
+    "answer": "was",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "The collective noun 'committee' refers to a single body here, hence singular verb 'was' is appropriate.",
+    "level": 1
+  },
+  {
+    "id": 10,
+    "question": "Identify the idiom meaning:\n'To burn the midnight oil'",
+    "options": [
+      "To work late into the night",
+      "To waste time",
+      "To cause an accident",
+      "To start a fire"
+    ],
+    "answer": "To work late into the night",
+    "difficulty": "Easy",
+    "company": "Cognizant",
+    "explanation": "'To burn the midnight oil' means to stay up late studying or working.",
+    "level": 1
+  },
+  {
+    "id": 11,
+    "question": "Sentence Correction - Select the best option for the underlined part:\n'Being a cold day, we decided to stay indoors and read.'",
+    "options": [
+      "Being a cold day",
+      "It being a cold day",
+      "Because of being cold",
+      "As the day is cold"
+    ],
+    "answer": "It being a cold day",
+    "difficulty": "Medium",
+    "company": "TCS",
+    "explanation": "The original sentence has a dangling modifier. 'Being a cold day' incorrectly modifies 'we'. Adding 'It' corrects it.",
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "Choose the option that best expresses the meaning of the idiom:\n'A blessing in disguise'",
+    "options": [
+      "A good thing that seemed bad at first",
+      "A fake prayer",
+      "An expensive present",
+      "A secret helper"
+    ],
+    "answer": "A good thing that seemed bad at first",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "An event that initially appears unfortunate but eventually results in a good outcome is a blessing in disguise.",
+    "level": 2
+  },
+  {
+    "id": 13,
+    "question": "Fill in the blank with the correct preposition:\n'The manager congratulated the team ____ their successful presentation.'",
+    "options": [
+      "for",
+      "about",
+      "on",
+      "at"
+    ],
+    "answer": "on",
+    "difficulty": "Medium",
+    "company": "Infosys",
+    "explanation": "The standard preposition used with 'congratulate' is 'on' (congratulate someone on something).",
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct synonym for 'Equivocal':",
+    "options": [
+      "Clear",
+      "Ambiguous",
+      "Fair",
+      "Logical"
+    ],
+    "answer": "Ambiguous",
+    "difficulty": "Medium",
+    "company": "Capgemini",
+    "explanation": "'Equivocal' means open to more than one interpretation; ambiguous.",
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "Identify the grammatical voice of the sentence:\n'The new software was developed by our engineering team last month.'",
+    "options": [
+      "Active Voice",
+      "Passive Voice",
+      "Subjunctive Mood",
+      "Conditional Voice"
+    ],
+    "answer": "Passive Voice",
+    "difficulty": "Medium",
+    "company": "Cognizant",
+    "explanation": "The object (the software) is the subject of the sentence, and the action is performed by the agent (engineering team). This is passive voice.",
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "Choose the option that represents the best correction:\n'Having finished the experiment, the data was analyzed by the scientist.'",
+    "options": [
+      "the data was analyzed by the scientist",
+      "the scientist analyzed the data",
+      "it was analyzed by the scientist",
+      "the data has been analyzed"
+    ],
+    "answer": "the scientist analyzed the data",
+    "difficulty": "Hard",
+    "company": "Accenture",
+    "explanation": "'Having finished the experiment' is a participial phrase that must modify the subject 'the scientist'. The active voice 'the scientist analyzed the data' resolves the dangling modifier.",
+    "level": 3
+  },
+  {
+    "id": 17,
+    "question": "Select the correct antonym for 'Alacrity':",
+    "options": [
+      "Eagerness",
+      "Lethargy",
+      "Apathy",
+      "Speed"
+    ],
+    "answer": "Lethargy",
+    "difficulty": "Hard",
+    "company": "Wipro",
+    "explanation": "'Alacrity' means brisk and cheerful readiness, so 'Lethargy' (lack of energy or enthusiasm) is the antonym.",
+    "level": 3
+  },
+  {
+    "id": 18,
+    "question": "Read the argument and answer the question:\n'Some argue that remote work increases productivity by cutting commute times. Others claim it causes isolation and reduces collaboration. However, a hybrid model offers a balance, keeping employees engaged while saving travel hours.'\n\nWhat is the author's primary attitude toward remote work?",
+    "options": [
+      "Completely opposed",
+      "Fully supportive of full remote work",
+      "Supports a balanced/hybrid approach",
+      "Indifferent"
+    ],
+    "answer": "Supports a balanced/hybrid approach",
+    "difficulty": "Hard",
+    "company": "TCS",
+    "explanation": "The author mentions 'a hybrid model offers a balance' which indicates support for the hybrid approach.",
+    "level": 3
+  },
+  {
+    "id": 19,
+    "question": "Analogies - Choose the pair that best expresses a relationship similar to 'ANACHRONISM : TIME':",
+    "options": [
+      "Tautology : Truth",
+      "Solecism : Language",
+      "Orphan : Family",
+      "Proximity : Space"
+    ],
+    "answer": "Solecism : Language",
+    "difficulty": "Hard",
+    "company": "Infosys",
+    "explanation": "An anachronism is an error in time; a solecism is a grammatical error or error in language.",
+    "level": 4
+  },
+  {
+    "id": 20,
+    "question": "Choose the word that best completes the sentence:\n'The speaker's ____ style, filled with complex jargon, served only to ____ the audience instead of clarifying the topic.'",
+    "options": [
+      "lucid .. entertain",
+      "tortuous .. bewilder",
+      "simple .. educate",
+      "expressive .. delight"
+    ],
+    "answer": "tortuous .. bewilder",
+    "difficulty": "Hard",
+    "company": "Cognizant",
+    "explanation": "Complex jargon matches a 'tortuous' (complex/convoluted) style, which would 'bewilder' (confuse) rather than clarify.",
+    "level": 4
+  }
+]

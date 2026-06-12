@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Arrays - Given the array [5, 2, 9, 1, 7], what is the second largest distinct element?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "The largest element is 9. The second largest distinct element is 7.",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "question": "Strings - A simple palindrome check is run on the string 'level'. What will the function return?",
+    "options": [
+      "True",
+      "False",
+      "0",
+      "-1"
+    ],
+    "answer": "True",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "The string 'level' reads the same from left to right and right to left, so it is a palindrome.",
+    "level": 1
+  },
+  {
+    "id": 3,
+    "question": "Hashing / Maps - Which data structure is best suited to count the frequency of elements in an array in a single pass?",
+    "options": [
+      "Stack",
+      "Queue",
+      "HashMap",
+      "Linked List"
+    ],
+    "answer": "HashMap",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "A HashMap lets you update and look up counts quickly, making it ideal for frequency counting in one pass.",
+    "level": 1
+  },
+  {
+    "id": 4,
+    "question": "Recursion - What is the output of a recursive function that returns n + solve(n - 1) with base case solve(0) = 0 for n = 4?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "10",
+    "difficulty": "Easy",
+    "company": "Accenture",
+    "explanation": "The function computes 4 + 3 + 2 + 1 + 0, which equals 10.",
+    "level": 1
+  },
+  {
+    "id": 5,
+    "question": "Pattern-Based Coding - A nested loop prints a right triangle pattern with 1 star in the first row, 2 stars in the second row, 3 stars in the third row and 4 stars in the fourth row. How many stars are printed in total?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "10",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "The total number of stars is 1 + 2 + 3 + 4 = 10.",
+    "level": 1
+  },
+  {
+    "id": 6,
+    "question": "Bitwise Operations - What is the value of 5 ^ 3 in bitwise XOR?",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "15"
+    ],
+    "answer": "6",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "5 in binary is 101, 3 is 011. 101 ^ 011 = 110 (which is 6 in decimal).",
+    "level": 1
+  },
+  {
+    "id": 7,
+    "question": "Stacks & Queues - Which data structure uses LIFO (Last In First Out) behavior?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Min-Heap",
+      "Binary Search Tree"
+    ],
+    "answer": "Stack",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "A Stack inserts and removes items from the same end, resulting in Last In First Out (LIFO) behavior.",
+    "level": 1
+  },
+  {
+    "id": 8,
+    "question": "Searching Algorithms - What is the time complexity of searching for an element in a sorted array of size n using Binary Search?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(log n)",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "Binary search divides the search space in half at each step, resulting in a logarithmic time complexity of O(log n).",
+    "level": 1
+  },
+  {
+    "id": 9,
+    "question": "Sorting Algorithms - Which of the following sorting algorithms has a best-case time complexity of O(n) when the array is already sorted?",
+    "options": [
+      "Quick Sort",
+      "Merge Sort",
+      "Bubble Sort",
+      "Selection Sort"
+    ],
+    "answer": "Bubble Sort",
+    "difficulty": "Easy",
+    "company": "Accenture",
+    "explanation": "Bubble sort can be optimized to stop early if no swaps are made during a pass, yielding O(n) best-case time complexity.",
+    "level": 1
+  },
+  {
+    "id": 10,
+    "question": "Linked Lists - In a singly linked list, what is the time complexity to insert a new node at the beginning of the list?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": "O(1)",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "Inserting at the head of a singly linked list only requires updating a few pointers and does not depend on the list size, so it takes O(1) time.",
+    "level": 1
+  },
+  {
+    "id": 11,
+    "question": "Dynamic Programming - Which of the following techniques is commonly used in Dynamic Programming to avoid recomputing subproblems by storing their results?",
+    "options": [
+      "Recursion",
+      "Backtracking",
+      "Memoization",
+      "Divide and Conquer"
+    ],
+    "answer": "Memoization",
+    "difficulty": "Medium",
+    "company": "TCS",
+    "explanation": "Memoization is a top-down technique where you cache the results of expensive function calls and return the cached result when the same inputs occur again.",
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "Tree Traversals - In which tree traversal order is the root node visited first, followed by the left subtree, and then the right subtree?",
+    "options": [
+      "In-order",
+      "Pre-order",
+      "Post-order",
+      "Level-order"
+    ],
+    "answer": "Pre-order",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "Pre-order traversal visits nodes in the order: Root, Left, Right.",
+    "level": 2
+  },
+  {
+    "id": 13,
+    "question": "Graph Traversals - Which algorithm is best suited for finding the shortest path in an unweighted graph starting from a source vertex?",
+    "options": [
+      "Depth First Search (DFS)",
+      "Breadth First Search (BFS)",
+      "Kruskal's Algorithm",
+      "Prim's Algorithm"
+    ],
+    "answer": "Breadth First Search (BFS)",
+    "difficulty": "Medium",
+    "company": "Infosys",
+    "explanation": "BFS visits vertices level by level, ensuring that the first time a vertex is reached, the path taken is the shortest in terms of the number of edges.",
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "Sorting Algorithms - What is the worst-case time complexity of standard Quick Sort?",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n^2)",
+    "difficulty": "Medium",
+    "company": "Capgemini",
+    "explanation": "Quick Sort's worst case occurs when the pivot chosen always divides the array into unbalanced partitions (e.g. sorted arrays with first/last element as pivot), leading to O(n^2).",
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "String Algorithms - Which algorithm is commonly used for efficient substring pattern matching in O(n + m) time?",
+    "options": [
+      "Dijkstra's Algorithm",
+      "Knuth-Morris-Pratt (KMP) Algorithm",
+      "Floyd-Warshall Algorithm",
+      "Kruskal's Algorithm"
+    ],
+    "answer": "Knuth-Morris-Pratt (KMP) Algorithm",
+    "difficulty": "Medium",
+    "company": "Cognizant",
+    "explanation": "The KMP algorithm precomputes a prefix function/table to skip redundant comparisons, enabling substring matching in linear time O(n + m).",
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "Greedy Algorithms - Which algorithm is used to find the shortest path from a single source to all other vertices in a weighted graph with non-negative edge weights?",
+    "options": [
+      "Bellman-Ford Algorithm",
+      "Dijkstra's Algorithm",
+      "Floyd-Warshall Algorithm",
+      "Kruskal's Algorithm"
+    ],
+    "answer": "Dijkstra's Algorithm",
+    "difficulty": "Hard",
+    "company": "Accenture",
+    "explanation": "Dijkstra's algorithm is a greedy algorithm that finds the single-source shortest path in a weighted graph with non-negative edge weights.",
+    "level": 3
+  },
+  {
+    "id": 17,
+    "question": "Data Structures - What is the height of a self-balancing binary search tree (like an AVL tree or Red-Black tree) with n elements?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(log n)",
+    "difficulty": "Hard",
+    "company": "Wipro",
+    "explanation": "Self-balancing BSTs keep their height close to log(n) by performing rotations during insertions and deletions, ensuring O(log n) search, insertion, and deletion times.",
+    "level": 3
+  },
+  {
+    "id": 18,
+    "question": "Heap Operations - What is the time complexity of deleting the minimum element from a binary Min-Heap of size n?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(log n)",
+    "difficulty": "Hard",
+    "company": "TCS",
+    "explanation": "Deleting the minimum element involves replacing the root with the last element and heapifying down, which takes O(log n) time.",
+    "level": 3
+  },
+  {
+    "id": 19,
+    "question": "Dynamic Programming - What is the time complexity of solving the 0/1 Knapsack problem with n items and a knapsack capacity of W using a dynamic programming table?",
+    "options": [
+      "O(n)",
+      "O(2^n)",
+      "O(nW)",
+      "O(n + W)"
+    ],
+    "answer": "O(nW)",
+    "difficulty": "Hard",
+    "company": "Infosys",
+    "explanation": "The DP solution computes a table of size (n+1) x (W+1), taking O(nW) time. Since W is not bounded by a polynomial in the input size, this is a pseudo-polynomial time complexity.",
+    "level": 4
+  },
+  {
+    "id": 20,
+    "question": "Graph Algorithms - Which algorithm finds the shortest paths between all pairs of vertices in a weighted graph that may contain negative edge weights but no negative cycles?",
+    "options": [
+      "Dijkstra's Algorithm",
+      "Prim's Algorithm",
+      "Floyd-Warshall Algorithm",
+      "Kruskal's Algorithm"
+    ],
+    "answer": "Floyd-Warshall Algorithm",
+    "difficulty": "Hard",
+    "company": "Cognizant",
+    "explanation": "Floyd-Warshall is a dynamic programming algorithm that solves the all-pairs shortest path problem in O(V^3) time and can handle negative edge weights.",
+    "level": 4
+  }
+]

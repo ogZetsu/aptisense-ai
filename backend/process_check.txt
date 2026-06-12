@@ -1,0 +1,103 @@
+﻿=== Get-Process python ===
+
+
+Id          : 40844
+ProcessName : python
+Path        : C:\Users\saimu\AppData\Local\Programs\Python\Python310\python.exe
+
+
+
+
+=== Processes with uvicorn/main:app/backend in commandline ===
+
+
+=== netstat -ano | findstr 8000 ===
+
+
+  TCP    127.0.0.1:8000         0.0.0.0:0              LISTENING       45636
+
+
+
+=== Get-NetTCPConnection -LocalPort 8000 ===
+
+
+
+LocalAddress   : 127.0.0.1
+LocalPort      : 8000
+RemoteAddress  : 0.0.0.0
+RemotePort     : 0
+State          : Listen
+AppliedSetting : 
+OwningProcess  : 45636
+CreationTime   : 27-05-2026 03:13:41
+OffloadState   : InHost
+
+
+
+
+=== Details for PID 45636 ===
+
+
+=== Details for PID 40844 ===
+
+
+
+ProcessId   : 40844
+Name        : python.exe
+CommandLine : "C:\Users\saimu\AppData\Local\Programs\Python\Python310\python.ex
+              e" "-c" "from multiprocessing.spawn import spawn_main; 
+              spawn_main(parent_pid=45636, pipe_handle=784)" 
+              "--multiprocessing-fork"
+
+
+
+
+=== Get-Process -Id 45636 ===
+
+
+=== tasklist /FI PID eq 45636 /V ===
+
+INFO: No tasks are running which match the specified criteria.
+
+=== tasklist /FI IMAGENAME eq python.exe /V (first 50 lines) ===
+
+
+Image Name                     PID Session Name        Session#    Mem Usage Status          User Name                                              CPU Time Window Title                                                            
+========================= ======== ================ =========== ============ =============== ================================================== ============ ========================================================================
+python.exe                   40844 Console                    5     10,360 K Unknown         ADMIN\saimu                                             0:00:21 N/A                                                                     
+
+=== LIVE CHECK ===
+
+
+
+Id          : 40844
+ProcessName : python
+Path        : C:\Users\saimu\AppData\Local\Programs\Python\Python310\python.exe
+
+
+
+
+  TCP    127.0.0.1:8000         0.0.0.0:0              LISTENING       45636
+
+
+
+
+LocalAddress   : 127.0.0.1
+LocalPort      : 8000
+RemoteAddress  : 0.0.0.0
+RemotePort     : 0
+State          : Listen
+AppliedSetting : 
+OwningProcess  : 45636
+CreationTime   : 27-05-2026 03:13:41
+OffloadState   : InHost
+
+
+
+
+=== AFTER KILL CHECK ===
+
+
+=== PORT FREE CHECK ===
+
+PORT_FREE

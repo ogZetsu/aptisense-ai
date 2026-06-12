@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Coding-Decoding - If MANGO is coded as NBOPH, how is PEAR coded in the same pattern?",
+    "options": [
+      "QFBS",
+      "QGCS",
+      "OFZS",
+      "RFCT"
+    ],
+    "answer": "QFBS",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "Each letter is shifted one place forward in the alphabet: M to N, A to B, N to O, G to H, O to P. Using the same pattern, PEAR becomes QFBS.",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "question": "Blood Relations - Pointing to a woman, Ravi says, 'She is the daughter of my grandmother's only son.' How is the woman related to Ravi?",
+    "options": [
+      "Mother",
+      "Sister",
+      "Aunt",
+      "Cousin"
+    ],
+    "answer": "Sister",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "My grandmother's only son is Ravi's father. The daughter of Ravi's father is his sister.",
+    "level": 1
+  },
+  {
+    "id": 3,
+    "question": "Number Series - Find the missing term in the series: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "40",
+      "41",
+      "42",
+      "44"
+    ],
+    "answer": "42",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "The differences are 4, 6, 8, 10. The next difference is 12, so 30 + 12 = 42.",
+    "level": 1
+  },
+  {
+    "id": 4,
+    "question": "Direction Sense - A person walks 8 meters east, then 5 meters north, and then 8 meters west. How far and in which direction is he from the starting point?",
+    "options": [
+      "5 meters north",
+      "5 meters south",
+      "3 meters east",
+      "13 meters north"
+    ],
+    "answer": "5 meters north",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "The east and west movements cancel each other. Only the 5 meters north movement remains.",
+    "level": 1
+  },
+  {
+    "id": 5,
+    "question": "Seating Arrangement - Four friends A, B, C and D sit in a row facing north. C sits immediately left of A. A sits immediately left of B. D sits to the right of B. Who sits at the leftmost end?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "C",
+    "difficulty": "Medium",
+    "company": "Cognizant",
+    "explanation": "The arrangement from left to right is C, A, B, D. So C sits at the leftmost end.",
+    "level": 1
+  },
+  {
+    "id": 6,
+    "question": "Data Sufficiency - Is x divisible by 6?\nStatement I: x is divisible by 2.\nStatement II: x is divisible by 3.",
+    "options": [
+      "Statement I alone is sufficient",
+      "Statement II alone is sufficient",
+      "Both statements together are sufficient",
+      "Each statement alone is sufficient"
+    ],
+    "answer": "Both statements together are sufficient",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "A number divisible by 6 must be divisible by both 2 and 3. Statement I alone is not enough, and Statement II alone is not enough. Together, they are sufficient.",
+    "level": 1
+  },
+  {
+    "id": 7,
+    "question": "Syllogisms - Choose the most logical conclusion based on the given statements:\nStatements:\n1. All books are pens.\n2. All pens are tables.\n\nConclusions:\nI. All books are tables.\nII. Some tables are books.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both conclusion I and II follow",
+      "Neither conclusion I nor II follows"
+    ],
+    "answer": "Both conclusion I and II follow",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "Since all books are pens and all pens are tables, all books are tables (I follows). Since all books are tables, some tables are books (II follows).",
+    "level": 1
+  },
+  {
+    "id": 8,
+    "question": "Letter Series - Find the missing term in the sequence: B, D, G, K, P, ?",
+    "options": [
+      "U",
+      "V",
+      "W",
+      "X"
+    ],
+    "answer": "V",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "The letter gaps increase by 1: B (+2) D (+3) G (+4) K (+5) P (+6) V.",
+    "level": 1
+  },
+  {
+    "id": 9,
+    "question": "Analogies - Light : Darkness :: Knowledge : ?",
+    "options": [
+      "Ignorance",
+      "Intelligence",
+      "Brightness",
+      "Study"
+    ],
+    "answer": "Ignorance",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "Light is the opposite of Darkness, and Knowledge is the opposite of Ignorance.",
+    "level": 1
+  },
+  {
+    "id": 10,
+    "question": "Odd One Out - Select the word that does not belong with the others:",
+    "options": [
+      "Peach",
+      "Apple",
+      "Grape",
+      "Potato"
+    ],
+    "answer": "Potato",
+    "difficulty": "Easy",
+    "company": "Cognizant",
+    "explanation": "Peach, Apple, and Grape are fruits, whereas Potato is a tuber/vegetable.",
+    "level": 1
+  },
+  {
+    "id": 11,
+    "question": "Clock Angle - Find the angle between the hour hand and the minute hand of a clock at 3:40.",
+    "options": [
+      "110 degrees",
+      "120 degrees",
+      "130 degrees",
+      "140 degrees"
+    ],
+    "answer": "130 degrees",
+    "difficulty": "Medium",
+    "company": "TCS",
+    "explanation": "Angle formula: |30H - 5.5M| = |30(3) - 5.5(40)| = |90 - 220| = 130 degrees.",
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "Logical Deduction - If all triangles are shapes, and some shapes are blue, which of the following is definitely true?",
+    "options": [
+      "All triangles are blue",
+      "Some triangles are blue",
+      "No triangles are blue",
+      "None of the above"
+    ],
+    "answer": "None of the above",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "Triangles are shapes. Shapes can be blue, but we cannot deduce if any triangle is blue. So none of the statements is definitely true.",
+    "level": 2
+  },
+  {
+    "id": 13,
+    "question": "Ranking Test - In a row of 35 students, Rohan is 12th from the right end. What is his position from the left end?",
+    "options": [
+      "23rd",
+      "24th",
+      "25th",
+      "26th"
+    ],
+    "answer": "24th",
+    "difficulty": "Medium",
+    "company": "Infosys",
+    "explanation": "Position from left = Total - Position from right + 1 = 35 - 12 + 1 = 24th.",
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "Mathematical Operations - If '+' means '*', '-' means '+', '*' means '/' and '/' means '-', what is the value of 15 + 3 - 4 / 2?",
+    "options": [
+      "45",
+      "47",
+      "49",
+      "51"
+    ],
+    "answer": "47",
+    "difficulty": "Medium",
+    "company": "Capgemini",
+    "explanation": "Rewriting the expression: 15 * 3 + 4 - 2 = 45 + 4 - 2 = 47.",
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "Blood Relations - A is the father of B. C is the sister of B. D is the mother of A. How is D related to C?",
+    "options": [
+      "Mother",
+      "Grandmother",
+      "Aunt",
+      "Sister"
+    ],
+    "answer": "Grandmother",
+    "difficulty": "Medium",
+    "company": "Cognizant",
+    "explanation": "A is father of B and C. D is mother of A, so D is grandmother of C.",
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "Calendar - If January 1st, 2024 was a Monday, what day of the week will January 1st, 2025 be? (Note: 2024 is a leap year)",
+    "options": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "answer": "Wednesday",
+    "difficulty": "Hard",
+    "company": "Accenture",
+    "explanation": "2024 is a leap year, so it has 366 days (52 weeks and 2 odd days). Jan 1st, 2025 will be 2 days ahead of Monday, which is Wednesday.",
+    "level": 3
+  },
+  {
+    "id": 17,
+    "question": "Logic Puzzle - Six people P, Q, R, S, T and U are sitting in a circle facing the center. P is opposite Q. R is between P and S. T is next to Q. Who is sitting opposite T?",
+    "options": [
+      "P",
+      "R",
+      "S",
+      "U"
+    ],
+    "answer": "R",
+    "difficulty": "Hard",
+    "company": "Wipro",
+    "explanation": "The circle arrangement is: P, R, S, Q, T, U. Opposite of T (position 5) is R (position 2).",
+    "level": 3
+  },
+  {
+    "id": 18,
+    "question": "Critical Reasoning - Assertion (A): In India, fuel prices have reached an all-time high.\nReason (R): The government has reduced excise duties on petrol and diesel.\nChoose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "A is true but R is false",
+    "difficulty": "Hard",
+    "company": "TCS",
+    "explanation": "Fuel prices are at an all-time high (A is true). Reducing excise duties would lower prices, so R is false.",
+    "level": 3
+  },
+  {
+    "id": 19,
+    "question": "Input-Output Machine - A machine rearranges a sequence of words as follows:\nInput: 'work hard play daily stay fit'\nStep 1: 'daily work hard play stay fit'\nStep 2: 'daily fit work hard play stay'\nIf the machine sorts words alphabetically, how many steps are needed to reach the final arrangement?",
+    "options": [
+      "3 steps",
+      "4 steps",
+      "5 steps",
+      "6 steps"
+    ],
+    "answer": "4 steps",
+    "difficulty": "Hard",
+    "company": "Infosys",
+    "explanation": "Alphabetical order: 'daily', 'fit', 'hard', 'play', 'stay', 'work'. Tracing rearrangement takes exactly 4 steps.",
+    "level": 4
+  },
+  {
+    "id": 20,
+    "question": "Binary Logic - Of three people A, B, and C, one is a truth-teller (always speaks the truth), one is a liar (always lies), and one is an alternator (alternates truth and lie). They make the following statements:\nA says: 'I am the truth-teller.'\nB says: 'A is the liar.'\nC says: 'B is the liar.'\nWho is the truth-teller?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Cannot be determined"
+    ],
+    "answer": "C",
+    "difficulty": "Hard",
+    "company": "Cognizant",
+    "explanation": "C being truth-teller makes B liar and A alternator. All statements match these designations perfectly.",
+    "level": 4
+  }
+]

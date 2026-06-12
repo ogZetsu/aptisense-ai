@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "A shopkeeper buys a mixer for Rs.800 and marks it 25% above cost price. He gives a 10% discount on the marked price. What is his profit percentage?",
+    "options": [
+      "10%",
+      "12.5%",
+      "15%",
+      "20%"
+    ],
+    "answer": "12.5%",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "Marked price = Rs.800 + 25% of Rs.800 = Rs.1000. Selling price after 10% discount = Rs.900. Profit = Rs.900 - Rs.800 = Rs.100, so profit percentage = (100 / 800) x 100 = 12.5%.",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "question": "A can complete a task in 10 days and B can complete the same task in 15 days. If they work together, in how many days will they finish the task?",
+    "options": [
+      "5 days",
+      "6 days",
+      "7 days",
+      "8 days"
+    ],
+    "answer": "6 days",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "A's work rate is 1/10 per day and B's rate is 1/15 per day. Together, they complete 1/10 + 1/15 = 1/6 of the work per day. So the task is finished in 6 days.",
+    "level": 1
+  },
+  {
+    "id": 3,
+    "question": "A train travels 180 km in 3 hours at a constant speed. How far will it travel in 5 hours at the same speed?",
+    "options": [
+      "250 km",
+      "280 km",
+      "300 km",
+      "320 km"
+    ],
+    "answer": "300 km",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "Speed = 180 / 3 = 60 km/h. In 5 hours, distance = 60 x 5 = 300 km.",
+    "level": 1
+  },
+  {
+    "id": 4,
+    "question": "The ratio of boys to girls in a class is 3:2. If there are 18 boys, how many students are there in the class?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "36"
+    ],
+    "answer": "30",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "If boys : girls = 3 : 2 and boys = 18, then 1 part = 6. Girls = 2 x 6 = 12. Total students = 18 + 12 = 30.",
+    "level": 1
+  },
+  {
+    "id": 5,
+    "question": "What is the probability of getting exactly one head when two fair coins are tossed?",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "answer": "1/2",
+    "difficulty": "Easy",
+    "company": "Cognizant",
+    "explanation": "The possible outcomes are HH, HT, TH, and TT. Exactly one head occurs in HT and TH, so the probability is 2/4 = 1/2.",
+    "level": 1
+  },
+  {
+    "id": 6,
+    "question": "The average of 5 numbers is 24. If one number 30 is removed, what is the average of the remaining 4 numbers?",
+    "options": [
+      "21.5",
+      "22",
+      "22.5",
+      "23"
+    ],
+    "answer": "22.5",
+    "difficulty": "Easy",
+    "company": "Accenture",
+    "explanation": "Total of 5 numbers = 5 x 24 = 120. After removing 30, remaining total = 90. Average of remaining 4 numbers = 90 / 4 = 22.5.",
+    "level": 1
+  },
+  {
+    "id": 7,
+    "question": "If a person sells an item for Rs.450 making a loss of 10%, at what price should he sell it to make a gain of 10%?",
+    "options": [
+      "Rs.500",
+      "Rs.550",
+      "Rs.600",
+      "Rs.650"
+    ],
+    "answer": "Rs.550",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "Cost Price (CP) = 450 / 0.9 = Rs.500. To make a 10% profit, Selling Price (SP) = 500 * 1.1 = Rs.550.",
+    "level": 1
+  },
+  {
+    "id": 8,
+    "question": "The price of sugar rises by 20%. By how much percent must a housewife reduce her consumption of sugar so that the expenditure on sugar does not increase?",
+    "options": [
+      "15%",
+      "16.67%",
+      "20%",
+      "25%"
+    ],
+    "answer": "16.67%",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "Reduction percentage = (R / (100 + R)) * 100 = (20 / 120) * 100 = 16.67%.",
+    "level": 1
+  },
+  {
+    "id": 9,
+    "question": "Find the simple interest on Rs.5000 at 8% per annum for 3 years.",
+    "options": [
+      "Rs.800",
+      "Rs.1000",
+      "Rs.1200",
+      "Rs.1500"
+    ],
+    "answer": "Rs.1200",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "SI = (P * R * T) / 100 = (5000 * 8 * 3) / 100 = Rs.1200.",
+    "level": 1
+  },
+  {
+    "id": 10,
+    "question": "A sum of money doubles itself in 10 years at simple interest. What is the rate of interest per annum?",
+    "options": [
+      "5%",
+      "8%",
+      "10%",
+      "12%"
+    ],
+    "answer": "10%",
+    "difficulty": "Easy",
+    "company": "Cognizant",
+    "explanation": "If P becomes 2P, SI = P. P = (P * R * 10) / 100 => R = 10%.",
+    "level": 1
+  },
+  {
+    "id": 11,
+    "question": "The difference between compound interest and simple interest on a sum of money at 10% per annum for 2 years is Rs.50. Find the principal sum.",
+    "options": [
+      "Rs.4000",
+      "Rs.4500",
+      "Rs.5000",
+      "Rs.6000"
+    ],
+    "answer": "Rs.5000",
+    "difficulty": "Medium",
+    "company": "TCS",
+    "explanation": "For 2 years, CI - SI = P * (R/100)^2. So 50 = P * (10/100)^2 => 50 = P * (1/100) => P = Rs.5000.",
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "A and B start moving towards each other from two points 250 km apart at the same time. If their speeds are in the ratio 2:3 and they meet in 2.5 hours, what are their speeds?",
+    "options": [
+      "40 km/h and 60 km/h",
+      "30 km/h and 45 km/h",
+      "50 km/h and 75 km/h",
+      "35 km/h and 52.5 km/h"
+    ],
+    "answer": "40 km/h and 60 km/h",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "Let speeds be 2x and 3x. Relative speed = 2x + 3x = 5x. Distance = Relative speed * Time => 250 = 5x * 2.5 => 250 = 12.5x => x = 20. Speeds are 40 km/h and 60 km/h.",
+    "level": 2
+  },
+  {
+    "id": 13,
+    "question": "In a mixture of 60 liters, the ratio of milk and water is 2:1. If this ratio is to be 1:2, what quantity of water (in liters) should be further added?",
+    "options": [
+      "20 liters",
+      "30 liters",
+      "40 liters",
+      "60 liters"
+    ],
+    "answer": "60 liters",
+    "difficulty": "Medium",
+    "company": "Infosys",
+    "explanation": "Initial Milk = 40L, Water = 20L. Let water added be x. 40 / (20 + x) = 1 / 2 => 80 = 20 + x => x = 60 liters.",
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "A vessel contains milk and water in the ratio 3:2. If 10 liters of the mixture is removed and replaced with 10 liters of water, the ratio becomes 2:3. What is the total capacity of the vessel?",
+    "options": [
+      "30 liters",
+      "40 liters",
+      "50 liters",
+      "60 liters"
+    ],
+    "answer": "30 liters",
+    "difficulty": "Medium",
+    "company": "Capgemini",
+    "explanation": "Let initial capacity be 5x. Milk left = 3x - 6, Water left = 2x - 4. Add 10L water -> Water = 2x + 6. Ratio: (3x - 6)/(2x + 6) = 2/3 => 9x - 18 = 4x + 12 => 5x = 30. So total capacity is 30 liters.",
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "The average age of a class of 30 students is 15 years. If the teacher's age is included, the average increases by 1 year. What is the teacher's age?",
+    "options": [
+      "40 years",
+      "45 years",
+      "46 years",
+      "50 years"
+    ],
+    "answer": "46 years",
+    "difficulty": "Medium",
+    "company": "Cognizant",
+    "explanation": "Total age of 30 students = 30 * 15 = 450. Total age with teacher = 31 * 16 = 496. Teacher's age = 496 - 450 = 46 years.",
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "A, B, and C enter into a partnership. A invests 3 times as much as B, and B invests two-third of what C invests. At the end of the year, the total profit is Rs. 6600. What is B's share in the profit?",
+    "options": [
+      "Rs. 1200",
+      "Rs. 1500",
+      "Rs. 1800",
+      "Rs. 2400"
+    ],
+    "answer": "Rs. 1200",
+    "difficulty": "Hard",
+    "company": "Accenture",
+    "explanation": "Let C's investment be x. B = (2/3)x, A = 2x. Ratio A:B:C = 2x : (2/3)x : x = 6 : 2 : 3. B's share = (2/11) * 6600 = Rs. 1200.",
+    "level": 3
+  },
+  {
+    "id": 17,
+    "question": "A boat travels 24 km upstream and 36 km downstream in 6 hours. It can travel 36 km upstream and 24 km downstream in 6.5 hours. Find the speed of the stream.",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "4 km/h",
+      "5 km/h"
+    ],
+    "answer": "2 km/h",
+    "difficulty": "Hard",
+    "company": "Wipro",
+    "explanation": "Let boat speed be u and stream speed be v. Upstream speed s = u-v, downstream speed d = u+v. 24/s + 36/d = 6 and 36/s + 24/d = 6.5. Solving gives s = 8 and d = 12. v = (d - s)/2 = 2 km/h.",
+    "level": 3
+  },
+  {
+    "id": 18,
+    "question": "A pump can fill a tank with water in 2 hours. Because of a leak, it took 2 hours and 20 minutes to fill the tank. How long will the leak take to drain all the water of the tank when full?",
+    "options": [
+      "12 hours",
+      "14 hours",
+      "16 hours",
+      "18 hours"
+    ],
+    "answer": "14 hours",
+    "difficulty": "Hard",
+    "company": "TCS",
+    "explanation": "Pump rate = 1/2. Combined rate = 3/7. Leak rate = 1/2 - 3/7 = 1/14. Leak takes 14 hours to drain.",
+    "level": 3
+  },
+  {
+    "id": 19,
+    "question": "If log(2) = 0.3010 and log(3) = 0.4771, find the number of digits in 6^20.",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "answer": "16",
+    "difficulty": "Hard",
+    "company": "Infosys",
+    "explanation": "log(6^20) = 20 * (log(2) + log(3)) = 20 * 0.7781 = 15.562. Characteristic is 15. Digits = 15 + 1 = 16.",
+    "level": 4
+  },
+  {
+    "id": 20,
+    "question": "Find the remainder when 2^256 is divided by 17.",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "16"
+    ],
+    "answer": "1",
+    "difficulty": "Hard",
+    "company": "Cognizant",
+    "explanation": "2^4 = 16 = -1 (mod 17). 2^256 = (2^4)^64 = (-1)^64 = 1 (mod 17). Remainder is 1.",
+    "level": 4
+  }
+]

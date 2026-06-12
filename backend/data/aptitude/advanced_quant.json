@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "The sales of four branches in a week were 120, 150, 180 and 210 units. What is the average sales per branch?",
+    "options": [
+      "150",
+      "160",
+      "165",
+      "170"
+    ],
+    "answer": "165",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "Total sales = 120 + 150 + 180 + 210 = 660. Average = 660 / 4 = 165.",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "question": "A salary increases from Rs.20,000 to Rs.22,000. What is the percentage increase?",
+    "options": [
+      "8%",
+      "9%",
+      "10%",
+      "12%"
+    ],
+    "answer": "10%",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "Increase = Rs.2,000. Percentage increase = (2,000 / 20,000) x 100 = 10%.",
+    "level": 1
+  },
+  {
+    "id": 3,
+    "question": "A product has a marked price of Rs.1200. A 20% discount is given, and then an additional 5% discount is applied on the reduced price. What is the final selling price?",
+    "options": [
+      "Rs.900",
+      "Rs.912",
+      "Rs.924",
+      "Rs.936"
+    ],
+    "answer": "Rs.912",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "After 20% discount, price = 1200 x 0.8 = 960. After an extra 5% discount, final price = 960 x 0.95 = 912.",
+    "level": 1
+  },
+  {
+    "id": 4,
+    "question": "Pipe A can fill a tank in 12 hours and Pipe B can fill the same tank in 18 hours. If both pipes are opened together, how long will they take to fill the tank?",
+    "options": [
+      "6 hours",
+      "7.2 hours",
+      "8 hours",
+      "9 hours"
+    ],
+    "answer": "7.2 hours",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "Combined rate = 1/12 + 1/18 = 5/36 tank per hour. Time required = 36/5 = 7.2 hours.",
+    "level": 1
+  },
+  {
+    "id": 5,
+    "question": "Two numbers are in the ratio 4:5 and their sum is 54. What is the larger number?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "32"
+    ],
+    "answer": "30",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "If the numbers are 4x and 5x, then 4x + 5x = 54, so 9x = 54 and x = 6. The larger number is 5x = 30.",
+    "level": 1
+  },
+  {
+    "id": 6,
+    "question": "Simple Probability - A bag contains 5 red balls and 7 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+    "options": [
+      "5/12",
+      "7/12",
+      "1/2",
+      "5/7"
+    ],
+    "answer": "5/12",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "Total balls = 5 + 7 = 12. Red balls = 5. Probability of red = 5/12.",
+    "level": 1
+  },
+  {
+    "id": 7,
+    "question": "Work and Time - A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, what fraction of the work is left?",
+    "options": [
+      "7/15",
+      "8/15",
+      "11/15",
+      "1/3"
+    ],
+    "answer": "8/15",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "Together, rate = 1/15 + 1/20 = 7/60 per day. In 4 days, they complete 4 * 7/60 = 28/60 = 7/15. Fraction of work left = 1 - 7/15 = 8/15.",
+    "level": 1
+  },
+  {
+    "id": 8,
+    "question": "Speed and Distance - A train 150m long passes a telegraph post in 12 seconds. Find the speed of the train in km/h.",
+    "options": [
+      "45 km/h",
+      "50 km/h",
+      "54 km/h",
+      "60 km/h"
+    ],
+    "answer": "45 km/h",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "Speed = Distance / Time = 150 / 12 = 12.5 m/s. In km/h, 12.5 * 18/5 = 45 km/h.",
+    "level": 1
+  },
+  {
+    "id": 9,
+    "question": "Profit & Loss - A man sells two articles for Rs.990 each, gaining 10% on one and losing 10% on the other. What is his overall gain or loss percentage?",
+    "options": [
+      "1% loss",
+      "1% gain",
+      "No loss no gain",
+      "2% loss"
+    ],
+    "answer": "1% loss",
+    "difficulty": "Easy",
+    "company": "Cognizant",
+    "explanation": "When selling prices are equal and gain % = loss % = x, there is always a loss of (x/10)^2 % = (10/10)^2 % = 1% loss.",
+    "level": 1
+  },
+  {
+    "id": 10,
+    "question": "Simple Equations - The sum of three consecutive even integers is 78. What is the largest of these integers?",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "answer": "28",
+    "difficulty": "Easy",
+    "company": "Accenture",
+    "explanation": "Let integers be x, x+2, x+4. Sum = 3x + 6 = 78 => 3x = 72 => x = 24. Largest is x+4 = 28.",
+    "level": 1
+  },
+  {
+    "id": 11,
+    "question": "Permutations & Combinations - In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+    "options": [
+      "360",
+      "480",
+      "720",
+      "840"
+    ],
+    "answer": "720",
+    "difficulty": "Medium",
+    "company": "TCS",
+    "explanation": "Vowels in 'LEADING' are E, A, I. Group them as one unit: (EAI), L, D, N, G. This gives 5 units. Arrange these 5 units in 5! = 120 ways. The vowels (E, A, I) can arrange among themselves in 3! = 6 ways. Total ways = 120 * 6 = 720.",
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "Pipes & Cisterns - Three pipes A, B and C can fill a tank in 6 hours. After working together for 2 hours, C is closed and A and B can fill the remaining part in 7 hours. How many hours will C alone take to fill the tank?",
+    "options": [
+      "10 hours",
+      "12 hours",
+      "14 hours",
+      "16 hours"
+    ],
+    "answer": "14 hours",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "Work done by A, B, C in 2 hours = 2/6 = 1/3. Remaining work = 2/3. A and B take 7 hours for 2/3 work, so their 1-hr rate = (2/3) / 7 = 2/21. C's rate = (A+B+C's rate) - (A+B's rate) = 1/6 - 2/21 = 7/42 - 4/42 = 3/42 = 1/14. So C alone takes 14 hours to fill the tank.",
+    "level": 2
+  },
+  {
+    "id": 13,
+    "question": "Compound Interest - Find the compound interest on Rs.10,000 for 1.5 years at 10% per annum, compounded half-yearly.",
+    "options": [
+      "Rs.1500",
+      "Rs.1525",
+      "Rs.1576.25",
+      "Rs.1600"
+    ],
+    "answer": "Rs.1576.25",
+    "difficulty": "Medium",
+    "company": "Infosys",
+    "explanation": "Compounded half-yearly: rate R = 5% per half-year, time n = 3 half-years. Amount = 10000 * (1.05)^3 = 10000 * 1.157625 = Rs.11576.25. Interest = Rs.1576.25.",
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "Averages - The average of 11 results is 50. If the average of the first 6 results is 49 and that of the last 6 is 52, find the 6th result.",
+    "options": [
+      "54",
+      "55",
+      "56",
+      "57"
+    ],
+    "answer": "56",
+    "difficulty": "Medium",
+    "company": "Capgemini",
+    "explanation": "Total of 11 results = 11 * 50 = 550. Sum of first 6 = 6 * 49 = 294. Sum of last 6 = 6 * 52 = 312. Sum of these 12 results = 294 + 312 = 606. 6th result = 606 - 550 = 56.",
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "Ratios & Mixtures - A merchant has 100 kg of sugar, part of which he sells at 8% profit and the rest at 18% profit. He gains 14% on the whole. What is the quantity sold at 18% profit?",
+    "options": [
+      "40 kg",
+      "50 kg",
+      "60 kg",
+      "70 kg"
+    ],
+    "answer": "60 kg",
+    "difficulty": "Medium",
+    "company": "Cognizant",
+    "explanation": "Using allegation: (18-14) : (14-8) = 4 : 6 = 2 : 3. Ratio is 2:3. Quantity sold at 18% profit = (3/5) * 100 = 60 kg.",
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "Probability - Three coins are tossed. What is the probability of getting at least two heads?",
+    "options": [
+      "1/4",
+      "3/8",
+      "1/2",
+      "5/8"
+    ],
+    "answer": "1/2",
+    "difficulty": "Hard",
+    "company": "Accenture",
+    "explanation": "Outcomes: HHH, HHT, HTH, THH, HTT, THT, TTH, TTT (Total 8). At least 2 heads: HHH, HHT, HTH, THH (4 outcomes). Probability = 4/8 = 1/2.",
+    "level": 3
+  },
+  {
+    "id": 17,
+    "question": "Algebra - If x + 1/x = 5, find the value of x^3 + 1/x^3.",
+    "options": [
+      "110",
+      "115",
+      "120",
+      "125"
+    ],
+    "answer": "110",
+    "difficulty": "Hard",
+    "company": "Wipro",
+    "explanation": "(x + 1/x)^3 = x^3 + 1/x^3 + 3(x + 1/x). So 5^3 = x^3 + 1/x^3 + 3(5) => 125 = x^3 + 1/x^3 + 15 => x^3 + 1/x^3 = 110.",
+    "level": 3
+  },
+  {
+    "id": 18,
+    "question": "Geometry - The area of a circular path surrounding a circular field is 308 sq. m. If the difference between the outer and inner radii is 7m, find the sum of the outer and inner radii.",
+    "options": [
+      "14m",
+      "15m",
+      "16m",
+      "17m"
+    ],
+    "answer": "14m",
+    "difficulty": "Hard",
+    "company": "TCS",
+    "explanation": "Area of path = π(R^2 - r^2) = π(R - r)(R + r) = 308. Since R - r = 7, we have (22/7) * 7 * (R + r) = 308 => 22 * (R + r) = 308 => R + r = 14m.",
+    "level": 3
+  },
+  {
+    "id": 19,
+    "question": "Combinatorics - Find the number of ways in which 5 boys and 5 girls can sit in a circle such that no two girls sit together.",
+    "options": [
+      "2880",
+      "14400",
+      "86400",
+      "120960"
+    ],
+    "answer": "2880",
+    "difficulty": "Hard",
+    "company": "Infosys",
+    "explanation": "First place the 5 boys in the circle. The number of ways is (5-1)! = 4! = 24. There are 5 gaps between the boys. We place 5 girls in these 5 gaps in 5! = 120 ways. Total ways = 24 * 120 = 2880.",
+    "level": 4
+  },
+  {
+    "id": 20,
+    "question": "Logarithms - Solve for x: log_2(x) + log_4(x) + log_16(x) = 7.",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "answer": "16",
+    "difficulty": "Hard",
+    "company": "Cognizant",
+    "explanation": "Change of base to 2: log_2(x) + log_2(x)/2 + log_2(x)/4 = 7 => log_2(x) * (1 + 0.5 + 0.25) = 7 => log_2(x) * 1.75 = 7 => log_2(x) * 7/4 = 7 => log_2(x) = 4 => x = 2^4 = 16.",
+    "level": 4
+  }
+]
